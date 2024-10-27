@@ -15,6 +15,8 @@
         echo "<p>Indirizzo IP del server: " . $_SERVER['SERVER_ADDR'] . "</p>";
         echo "<p>Nome del server: " . $_SERVER['SERVER_NAME'] . "</p>";
         echo "<p>Software del server: " . $_SERVER['SERVER_SOFTWARE'] . "</p>";
+
+        echo "test deploy su git collegato a heroku"
     ?>
 </body>
 </html>
