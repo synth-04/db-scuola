@@ -1,0 +1,6 @@
+{
+    "name": "simple-html-php-app",
+    "description": "A simple HTML and PHP application for Heroku",
+    "require": {}
+  }
+  
