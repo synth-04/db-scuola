@@ -1,5 +1,5 @@
 {
-    "name": "simple-html-php-app",
+    "name": "dbscuola/heroku",
     "description": "A simple HTML and PHP application for Heroku",
     "require": {}
   }
